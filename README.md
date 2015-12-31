@@ -14,7 +14,7 @@ assistance, please email to support@molpay.com
 Installations for Seamless Iframe
 --------------------------
 
-- [Version 1.0](https://github.com/MOLPay/Seamless_Integration/wiki/MOLPay-Seamless-Iframe-Integration-v1.0)
+- [Version 1.0](https://github.com/MOLPay/Seamless_Iframe_Integration/wiki/MOLPay-Seamless-Iframe-Integration-v1.0)
 
 
 Issues
