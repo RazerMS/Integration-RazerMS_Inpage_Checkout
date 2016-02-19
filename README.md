@@ -1,7 +1,7 @@
 MOLPay Seamless Iframe Integration
 =====================
 
-MOLPay Seamless Iframe Integration develop by MOLPay technical team.
+MOLPay Seamless Iframe Integration developed by MOLPay technical team.
 
 Notes
 -----
