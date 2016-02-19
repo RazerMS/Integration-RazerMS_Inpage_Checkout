@@ -1,7 +1,7 @@
-MOLPay Seamless Iframe Integration
+MOLPay Inpage Checkout
 =====================
 
-MOLPay Seamless Iframe Integration developed by MOLPay technical team.
+MOLPay Inpage Checkout (previously known as Seamless Iframe Integration) is developed by MOLPay technical team.
 
 Notes
 -----
@@ -11,10 +11,10 @@ Use at your own risk. Please backup any critical data before proceeding. For any
 assistance, please email to support@molpay.com 
 
 
-Installations for Seamless Iframe
+Installations for Inpage Checkout
 --------------------------
 
-- [Version 1.0](https://github.com/MOLPay/Seamless_Iframe_Integration/wiki/MOLPay-Seamless-Iframe-Integration-Guide-v1.0)
+- [Version 1.0](https://github.com/MOLPay/Inpage_Checkout/wiki/MOLPay-Inpage_Checkout-Guide-v1.0)
 
 
 Issues
