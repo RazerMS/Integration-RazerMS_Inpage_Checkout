@@ -14,7 +14,7 @@ assistance, please email to support@molpay.com
 Installations for Inpage Checkout
 --------------------------
 
-- [Version 1.0](https://github.com/MOLPay/Inpage_Checkout/wiki/MOLPay-Inpage_Checkout-Guide-v1.0)
+- [Version 1.0](https://github.com/MOLPay/Inpage_Checkout/wiki/MOLPay-Inpage-Checkout-Guide-v1.0)
 
 
 Issues
