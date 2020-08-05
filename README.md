@@ -14,8 +14,8 @@ assistance, please email to support-sa@razer.com
 Installations for Inpage Checkout
 --------------------------
 
-- [Version 1.0](https://github.com/RazerMS/Inpage_Checkout/wiki/MOLPay-Inpage-Checkout-Guide-v1.0)
-- [Sandbox Version 1.0](https://github.com/RazerMS/Inpage_Checkout/wiki/MOLPay-Inpage-Checkout-Sandbox-Guide-v1.0)
+- [Version 1.0](https://github.com/RazerMS/Inpage_Checkout/wiki/RazerMS-Inpage-Checkout-Guide-v1.0)
+- [Sandbox Version 1.0](https://github.com/RazerMS/Inpage_Checkout/wiki/RazerMS-Inpage-Checkout-Sandbox-Guide-v1.0)
 
 
 Issues
