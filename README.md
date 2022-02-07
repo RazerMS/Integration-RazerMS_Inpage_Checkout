@@ -1,4 +1,4 @@
-Razer Merchant Services Inpage Checkout
+[Integration] – RazerMS Inpage Checkout
 =====================
 
 Razer Merchant Services Inpage Checkout (previously known as Seamless Iframe Integration) is developed by Razer Merchant Services technical team.
