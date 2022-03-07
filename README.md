@@ -1,5 +1,5 @@
 # [Integration] – Inpage Checkout
-<img src="https://user-images.githubusercontent.com/38641542/157013302-dc42a762-0063-4271-9043-2ea8cbefd725.jpg">
+<img src="https://user-images.githubusercontent.com/38641542/157055925-88fee4a3-1896-4656-beec-fde9a0d25e03.jpg">
 
 
 Razer Merchant Services Inpage Checkout (previously known as Seamless Iframe Integration) is developed by Razer Merchant Services technical team.
