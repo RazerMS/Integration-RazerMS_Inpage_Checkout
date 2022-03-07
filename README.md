@@ -1,4 +1,6 @@
-[Integration] – RazerMS Inpage Checkout
+[Integration] – Inpage Checkout
+<img src="https://user-images.githubusercontent.com/38641542/157013302-dc42a762-0063-4271-9043-2ea8cbefd725.jpg">
+
 =====================
 
 Razer Merchant Services Inpage Checkout (previously known as Seamless Iframe Integration) is developed by Razer Merchant Services technical team.
@@ -6,7 +8,7 @@ Razer Merchant Services Inpage Checkout (previously known as Seamless Iframe Int
 Notes
 -----
 
-MOLPay Sdn. Bhd. is not responsible for any problems that might arise from the use of this module. 
+Razer Merchant Services Sdn. Bhd. is not responsible for any problems that might arise from the use of this module. 
 Use at your own risk. Please backup any critical data before proceeding. For any query or 
 assistance, please email to support-sa@razer.com 
 
