@@ -32,6 +32,15 @@ Submit issue to this repository or email to our support-sa@razer.com
 You can contribute to this plugin by sending the pull request to this repository.
 
 
+## Resources
+
+- GitHub:     https://github.com/RazerMS
+- Website:    https://merchant.razer.com/
+- Twitter:    https://twitter.com/Razer_MS
+- YouTube:    https://www.youtube.com/c/RazerMerchantServices
+- Facebook:   https://www.facebook.com/RazerMerchantServices/
+- Instagram:  https://www.instagram.com/RazerMerchantServices/
+
 
 # Issues
 
