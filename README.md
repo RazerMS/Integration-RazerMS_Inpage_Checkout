@@ -23,7 +23,7 @@ You can contribute to this plugin by sending the pull request to this repository
 
 # Installations Guidance for Inpage Checkout
 
-- [Installation Guide](https://github.com/RazerMS/Integration-RazerMS_Inpage_Checkout/wiki/RazerMS-Inpage-Checkout-Guide-v3.0)
+- [Installation Guide](https://github.com/RazerMS/Integration-RazerMS_Inpage_Checkout/wiki/RazerMS-Inpage-Checkout-Guide-v2.0)
 
 ## Resources
 
